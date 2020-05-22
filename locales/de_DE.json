@@ -1,7 +1,7 @@
 {
   "sandbox-warning": "This is a sandbox environment for testing API integration. Never send real funds here!",
   "buy": "buy",
-  "sell": "sell",
+  "sell": "Verkaufen",
   "continue": "Continue",
   "ok": "OK",
   "back": "Back",
